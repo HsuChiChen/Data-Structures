@@ -1,4 +1,4 @@
-# Computer Organization
+# Data Structures
 Time : 2021 spring (second half semester of sophomore)
 
 ## lecture
@@ -14,6 +14,7 @@ Time : 2021 spring (second half semester of sophomore)
 - [hw1](#hw1)
 - [hw2](#hw2)
 - [hw3](#hw3)
+- [hw4](#hw4)
 
 <br>
 
@@ -113,4 +114,4 @@ hit the range and push in Stack
 
 ### 心得
 在網路上看到各式各樣的sorting，了解到各種sorting的優缺點與使用時機
-像`Insert sort`雖然時間複雜度大但適用於資料量小或是已經幾乎快排好的序列。而`Radix Sort`採用分配的方式，依據多個鍵值排序，在某些時候比快速排序法要快，以我上面做的圖來看Radix Sort時間上小贏Quick Sort。
+像`Insert sort`雖然時間複雜度大但適用於資料量小或是已經幾乎快排好的序列。而`Radix Sort`採用分配的方式，依據多個鍵值排序，在某些時候比快速排序法要快，以我上面做的圖來看`Radix Sort`時間上小贏`Quick Sort`。
