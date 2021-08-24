@@ -9,8 +9,8 @@ Time : 2021 spring (second half semester of sophomore)
 
 <br>
 
-## Code
-> more info in doc/*docx
+## Report
+> more info in doc/*.docx
 - [hw1](#hw1)
 - [hw2](#hw2)
 - [hw3](#hw3)
